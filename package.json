@@ -1,0 +1,20 @@
+{
+  "name": "exercise14",
+  "version": "1.0.0",
+  "description": "ECommerce_Site",
+  "main": "Ecommerce_Site_Home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "testing",
+    "node",
+    "check"
+  ],
+  "author": "bm",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
